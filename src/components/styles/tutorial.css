@@ -1,0 +1,12 @@
+p > img {
+    max-width: 700px;
+    height: auto;
+    max-height: 430px;
+    width: auto;
+    justify-self: center;
+    margin: 0 auto;
+}
+
+h2{
+    font-size: x-large;
+}
